@@ -2,7 +2,6 @@
 
 // Math Expressions
 // Question.no.1
-
 var first_num = 3;
 var second_num = 5;
 var total = first_num + second_num;
