@@ -1,5 +1,4 @@
 // Assigment No. 5
-
 // Math Expressions
 // Question.no.1
 var first_num = 3;
